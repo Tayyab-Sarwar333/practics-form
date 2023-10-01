@@ -1,0 +1,28 @@
+form{
+    background-color: aqua;
+    text-align: center;
+}
+img{
+    display: inline-block;
+}
+#submit{
+    width: 50%;
+    height: 50%;
+    background-color: blanchedalmond;
+    color: red;
+font-weight: bold;
+display:inline-block;
+margin: 10px;
+padding: 20px;
+
+}
+
+table tr td{
+    border: 2px solid green;
+    border-collapse: collapse;
+
+}
+/* table tr{
+    border: 1px solid red;
+    border-collapse:collapse ;
+} */
